@@ -1,10 +1,8 @@
-![snake gif](https://github.com/enzoCorrea123/enzoCorrea123/blob/output/github-contribution-grid-snake.gif)
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+Olá+Mundo!+👋;" />
+</h1>
     
-## Olá 👋, Sou Enzo Rufino Correa
+## Olá, Sou Enzo Rufino Correa
 
 <details>
   <summary>👨‍💻 Um pouco sobre mim</summary>
