@@ -31,10 +31,8 @@
 
 <img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=enzoCorrea123&show_icons=true&theme=radical">
 
-
-
-
-
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="git mario">
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/enzoCorrea123/enzoCorrea123/output/github-contribution-grid-snake-dark.svg)
